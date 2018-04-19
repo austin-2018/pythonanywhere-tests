@@ -3,3 +3,6 @@
 
 #### How to use a virtualenv in your web app (to get newer versions of django, flask etc)
 #### https://help.pythonanywhere.com/pages/Virtualenvs
+
+#### Web app setup
+#### https://www.pythonanywhere.com/web_app_setup/

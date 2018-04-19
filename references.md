@@ -6,3 +6,6 @@
 
 #### Web app setup
 #### https://www.pythonanywhere.com/web_app_setup/
+
+#### Put Interactive Python Anywhere on the Web
+#### https://trinket.io/python/7dc8bcb6f6
